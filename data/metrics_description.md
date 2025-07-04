@@ -21,7 +21,7 @@
 Об’єм чистого алкоголю в грамах, розраховується за формулою:
 
 \[
-\text{alcohol\_g} = \text{volume\_ml} \times \frac{\text{alcohol\_%}}{100} \times 0.8
+alcohol_g = (volume_ml * alcohol_% * 0.8)/100
 \]
 
 де 0.8 — щільність етанолу в грамах на мілілітр.
