@@ -28,7 +28,7 @@ Pet project for visualizing alcohol consumption data using Google Sheets &amp; L
 
 - ## 📥 Як використовувати
 
-1. Завантаж шаблон [drink_log_template.csv](data/drink_log_template.csv) з папки [data](data/)
+1. Завантаж шаблон [drink_log_template.csv]([data/drink_log_template.csv](https://github.com/Alina-Maistrenko/Drink_control_analytics/tree/main/data#:~:text=drink_log_template%20%2D%20%D0%A9%D0%BE%D0%B4%D0%B5%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B2%D1%96%D0%B4%D1%81%D1%82%D0%B5%D0%B6%D1%83%D0%B2%D0%B0%D1%87%20%D0%B0%D0%BB%D0%BA%D0%BE%D0%B3%D0%BE%D0%BB%D1%8E.csv)) з папки [data](data/)
 2. Заповнюй дані за своєю логікою (дати, об'єми, типи напоїв)
 3. Підключи свій Google Sheet до Looker Studio
 4. Побудуй власний дашборд або адаптуй мій
